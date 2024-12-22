@@ -24,7 +24,7 @@
             </select>
         </div>
         <div class="col-2">
-            <span class="fs-6 fw-medium mb-3">Pilih Tags</span>
+            <span class="fs-6 fw-medium mb-3">Pilih Tags</span><br>
             <input name="selector[]" id="tags1" class="tags" type="checkbox" value="Company" />
             <label for="tags1">Company</label><br>
             <input name="selector[]" id="tags2" class="tags" type="checkbox" value="Level" />
